@@ -1,10 +1,10 @@
+some text updated thorught git_1
+some text updated thorught git_1
 some text
 some text
 some text
 some text
 some text
 some text
-some text
-some text
-some text
-some text
+some text updated thought git_1 second time
+some text updated thought git_1 second time
