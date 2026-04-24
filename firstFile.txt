@@ -2,9 +2,9 @@ some text updated thorught git_1
 some text updated thorught git_1
 some text changed from folder_2
 some text changed from folder_2
-some text
-some text
-some text
+some text changed from folder_1
+some text changed from folder_1
+some text another changed from folder_1
 some text
 some text updated thought git_1 second time
 some text updated thought git_1 second time
